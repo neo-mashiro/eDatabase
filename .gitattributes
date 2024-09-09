@@ -1,0 +1,3 @@
+docs/* linguist-documentation=true
+*.ipynb linguist-detectable=false
+*.sql linguist-detectable=true
